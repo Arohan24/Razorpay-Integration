@@ -1,0 +1,14 @@
+body{
+  background-color: rgba(0, 0, 0, 0.74);
+}
+.header{
+  background-color: lavender;
+  color: black;
+  text-align: center;
+  width: 100%;
+}
+.center{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
